@@ -1,0 +1,84 @@
+/* heading section */
+#section1{
+    background-color: #FCE22A;
+    text-align: center;
+    padding: 1.2rem 0rem 0.2rem;
+    border-bottom: 3px solid rgba(92, 26, 206, 0.555);
+}
+.mainheading{
+    color: rgb(27, 70, 198); 
+    font-family: 'Josefin Sans', sans-serif;  
+    font-size: 50px;
+}
+
+/* bills section */
+#section2{
+    padding: 1rem;
+    min-height: 33.5rem;
+}
+h4{
+    text-decoration: solid underline;
+    font-weight: 600;
+    color: royalblue;
+}
+.billsection{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 500;
+}
+.bill{
+    margin: 2rem 2rem 0 2rem;
+    padding: 1rem;
+    line-height: 2;
+    min-height: 10rem;
+    border: 2px solid ;
+    border-bottom: 0px;
+    background-color: rgba(228, 228, 228, 0.626);
+}
+.bill:hover{
+    color: rgb(27, 70, 198);
+}
+.paybtnarea{
+    text-align: center;
+    margin: 0px 2rem;
+    padding-bottom: 1rem;
+    border: 2px solid ;
+    border-top: 0px;
+    background-color: rgba(228, 228, 228, 0.626);
+}
+.paybtn{
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 10px;
+    font-family: Arial;
+    border: 1px solid black;
+    color: #ffffff;
+    font-size: 1rem;
+    background-color: #3cb0fd;
+    padding: 10px 15px 10px 15px;
+    text-decoration: none;
+
+}
+.paybtn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+}
+
+
+/* end section */
+#endsection{
+    padding: 1rem 1rem;
+    background-color: #FFD24C ;
+    text-align: center;
+    border-top: 3px solid rgba(92, 26, 206, 0.555); 
+    border-bottom: 3px solid rgba(92, 26, 206, 0.555);
+    bottom: 0px;
+    width: 100%;      
+}
+.reachouttext{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 600;
+    color:rgb(27, 70, 198) ;
+}
+.reachouttext:hover{
+    color: cornflowerblue;
+}

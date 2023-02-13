@@ -1,0 +1,164 @@
+/* topbar_edit */
+.topbar{
+    background-color: #FCE22A  ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    border-bottom: 3px solid rgba(92, 26, 206, 0.555);
+} 
+.mainheading{
+    color: rgb(27, 70, 198); 
+    font-family: 'Josefin Sans', sans-serif;  
+    font-size: 50px; 
+    margin-top: 12px;
+}
+.mainheading:hover{
+    color: rgba(53, 27, 185, 0.848);
+}
+.topbaricons{
+    color: rgb(45, 45, 45);
+}
+.iconallign{
+    text-align: center;
+}
+.topbaricons:hover{
+    color: dimgrey;
+}
+.featurestext{
+    font-family:'Manrope', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: rgb(58, 40, 175); 
+
+}
+
+/* notice_section */
+#section1{
+    padding: 2rem 1rem;
+    border-bottom: 3px solid rgba(92, 26, 206, 0.555);
+}
+.noticesection{
+    padding: 1rem;
+    margin: 0px;
+    border: .3rem solid rgba(38, 83, 215, 0.828) ;
+}
+.noticeheading{
+    text-decoration:solid underline;
+    text-align: center;
+    margin-bottom: 1rem;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 700;
+    color: firebrick;
+}
+
+/* notice_content */
+.noticerow1{
+    background-color: #FFE699; 
+    border-top:1px solid ;
+    font-family: 'Noto Sans', sans-serif;
+    padding: 3px 5px;
+    line-height: 2;
+}
+.noticerow1:hover{
+    background-color:#fbd97b ;
+}
+.noticerow2{
+    background-color: #FFF9B6;
+    font-family: 'Noto Sans', sans-serif;
+    border-top:1px solid ;
+    padding: 3px 5px;
+}
+.noticerow2:hover{
+    background-color: #fbd97b;
+}
+p{
+    line-height: 1.5;
+    font-weight: 500;
+}
+h3{
+    text-decoration: solid underline;
+    
+}
+.noticetitle{
+    font-weight: 500;
+    color: rgb(15, 63, 165) ;
+}
+.underlining{
+    text-decoration: solid underline;
+}
+
+/* Feature section */
+#section2{
+    padding: 2rem 3rem;
+    background-color: #EAFDFC;
+    border-bottom: 3px solid rgba(92, 26, 206, 0.555);
+}
+.features{
+    text-align: center;
+    padding-bottom: 2rem;
+} 
+.gallerybtn{
+    color: darkorchid;
+    margin-bottom: 5px;
+}
+.gallerybtn:hover {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+.exclamationbtn{
+    color: lightsalmon;
+    margin-bottom: 5px;
+}
+.exclamationbtn:hover {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+.paymentbtn{
+    color: rgb(34, 121, 34);
+    margin-bottom: 5px;
+}
+.paymentbtn:hover {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+.noticereqbtn{
+    color: rgb(255, 158, 39) ;
+    margin-bottom: 5px;
+}
+.noticereqbtn:hover {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+.contactbtn{
+    color: peru;
+    margin-bottom: 5px;
+}
+.contactbtn:hover {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+.securitycambtn{
+    color: rgb(116, 115, 115);
+    margin-bottom: 5px;
+}
+.securitycambtn:hover {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+/* end section */
+#endsection{
+    padding: 1rem 1rem;
+    background-color: #FFD24C ;
+    text-align: center;
+    border-bottom: 3px solid rgba(92, 26, 206, 0.555);
+
+}
+.reachouttext{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 600;
+    color:rgb(27, 70, 198) ;
+}
+.reachouttext:hover{
+    color: cornflowerblue;
+}

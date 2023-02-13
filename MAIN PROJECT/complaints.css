@@ -1,0 +1,93 @@
+/* heading section */
+#section1{
+    background-color: #FCE22A;
+    text-align: center;
+    padding: 1.2rem 0rem 0.2rem;
+    border-bottom: 3px solid rgba(92, 26, 206, 0.555);
+}
+.mainheading{
+    color: rgb(27, 70, 198); 
+    font-family: 'Josefin Sans', sans-serif;  
+    font-size: 50px;
+}
+
+/* complaints section */
+#section2{
+    padding: 1rem;
+    border-bottom: 3px solid rgba(92, 26, 206, 0.555);   
+}
+.info{
+    padding: 0px 1rem;
+    color: firebrick;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 600;
+
+}
+.complaintsbox{
+    border: 5px solid rgba(112, 144, 240, 0.828);
+    padding: 1rem;
+}
+
+/* notification content */
+.timestamp{
+    font-weight: 400;
+    text-decoration: solid underline ;
+    line-height: 2;
+    color: rgb(71, 71, 71);
+}
+.nametag{
+    font-weight: 400;
+    line-height: 2;
+    color: rgb(71, 71, 71);
+}
+.addresstag{
+    margin-left: 1rem;
+    font-weight: 400;
+    line-height: 2;
+    color: rgb(71, 71, 71);
+}
+.complaintrow1{
+    background-color:  rgba(248, 201, 183, 0.853);
+    border-top: 2px solid;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 600;
+}
+.complaintrow1:hover{
+    background-color:  rgba(255, 223, 211, 0.853);
+}
+
+/* adding buttons */
+.addbtn{
+   position: fixed;
+   bottom: 1rem;
+   right: 1rem; 
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 3px;
+  color: #ffffff;
+  font-size: 20px;
+  background: rgb(27, 70, 198);
+  padding: 10px 13px 10px 15px;
+  text-decoration: none;
+}
+.addbtn:hover{
+    background: #3cb0fd;
+    text-decoration: none;
+}
+
+
+/* end section */
+#endsection{
+    padding: 1rem 1rem;
+    background-color: #FFD24C ;
+    text-align: center;
+    border-bottom: 3px solid rgba(92, 26, 206, 0.555);    
+}
+.reachouttext{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 600;
+    color:rgb(27, 70, 198) ;
+}
+.reachouttext:hover{
+    color: cornflowerblue;
+}

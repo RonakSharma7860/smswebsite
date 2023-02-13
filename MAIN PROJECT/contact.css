@@ -1,0 +1,101 @@
+/* heading section */
+#section1{
+    background-color: #FCE22A;
+    text-align: center;
+    padding: 1.2rem 0rem 0.2rem;
+    border-bottom: 3px solid rgba(92, 26, 206, 0.555);
+}
+.mainheading{
+    color: rgb(27, 70, 198); 
+    font-family: 'Josefin Sans', sans-serif;  
+    font-size: 50px;
+}
+
+/* information section */
+#section2{
+    padding: 1rem;
+}
+.searchbar{
+    width: 100%;
+    text-align: center;
+}
+.contactbox{
+    margin-top: 1rem;
+    border: .3rem solid rgba(38, 83, 215, 0.828) ;
+}
+.contactlist{
+    border: 2px solid;
+    border-top: 0px;
+    width: 100%;
+}
+.contactrow1{
+    background-color: rgba(216, 216, 216, 0.626); 
+    border-bottom:1px solid ;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    
+}
+.contactrow1:hover{
+    color:rgb(27, 70, 198) ;
+    border-bottom:1px solid #000;
+}
+.contactrow2{
+    background-color: #fff;
+    font-family: 'Noto Sans', sans-serif;
+    border-bottom:1px solid ;
+    font-size: 1rem;
+    font-weight: 600;
+    
+}
+.contactrow2:hover{
+    color:rgb(27, 70, 198) ;
+    border-bottom:1px solid #000;
+}
+
+/* content cell */
+.name{
+    padding: 1rem;
+}
+.infoarea{
+    padding: 1rem;
+    width: 70%;
+}
+.btnarea{
+    padding: 1rem;
+}
+.requestbtn{
+    
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 1rem;
+    background-color: #3cb0fd;
+    padding: 10px 15px 10px 15px;
+    text-decoration: none;
+}
+.requestbtn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+}
+
+/* end section */
+#endsection{
+    padding: 1rem 1rem;
+    background-color: #FFD24C ;
+    text-align: center;
+    border-top: 3px solid rgba(92, 26, 206, 0.555); 
+    border-bottom: 3px solid rgba(92, 26, 206, 0.555); 
+    width: 100%;      
+}
+.reachouttext{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 600;
+    color:rgb(27, 70, 198) ;
+}
+.reachouttext:hover{
+    color: cornflowerblue;
+}
+

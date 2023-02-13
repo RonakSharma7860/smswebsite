@@ -1,0 +1,96 @@
+/* heading section */
+#section1{
+    background-color: #FCE22A;
+    text-align: center;
+    padding: 1.2rem 0rem 0.2rem;
+    border-bottom: 3px solid rgba(92, 26, 206, 0.555);
+
+}
+.mainheading{
+    color: rgb(27, 70, 198); 
+    font-family: 'Josefin Sans', sans-serif;  
+    font-size: 50px;
+}
+
+/* options */
+.profilebox{
+    border: 2px solid;
+    border-top: 0px;
+    width: 100%;
+}
+.profilerow1{
+    background-color: rgba(216, 216, 216, 0.626); 
+    border-bottom:1px solid ;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    
+}
+.profilerow1:hover{
+    color:rgb(27, 70, 198) ;
+    border-bottom:1px solid #000;
+}
+.profilerow2{
+    background-color: #fff;
+    font-family: 'Noto Sans', sans-serif;
+    border-bottom:1px solid ;
+    font-size: 1.5rem;
+    font-weight: 600;
+    
+}
+.profilerow2:hover{
+    color:rgb(27, 70, 198) ;
+    border-bottom:1px solid #000;
+}
+.datatype{
+    padding: 1rem;
+    text-decoration: solid underline;
+    
+    color: rgb(71, 71, 71);
+}
+.data{
+    padding: 1rem;
+    width: 70%;
+}
+
+/* edit button */
+#section3{
+    padding: 1rem 0.4rem;
+    float: left;
+}
+.editbtn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background-color: #3cb0fd;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.editbtn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+}
+
+/* end section */
+#endsection{
+    padding: 1rem 1rem;
+    background-color: #FFD24C ;
+    text-align: center;
+    border-top: 3px solid rgba(92, 26, 206, 0.555); 
+    border-bottom: 3px solid rgba(92, 26, 206, 0.555); 
+    position: fixed;
+    bottom: 0px; 
+    width: 100%;      
+}
+.reachouttext{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 600;
+    color:rgb(27, 70, 198) ;
+}
+.reachouttext:hover{
+    color: cornflowerblue;
+}
